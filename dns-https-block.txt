@@ -29,6 +29,7 @@
 # AdGuard
 ||dns.adguard.com^
 ||dns-family.adguard.com^
+||d.adguard-dns.com^
 
 # Alekberg
 ||dns.alekberg.net^
