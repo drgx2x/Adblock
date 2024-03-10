@@ -1,4 +1,4 @@
-## Title : Bryant's DNS HTTPS Blocklist
+## Title : drgx2x DNS HTTPS Blocklist
 ## Prevent program and malware to bypass DNS filter by using popular DoH services
 ## To block DNS over TLS (DoT), block port 853
 ## This list has been created for security purpose ONLY. DoH by concept is a great idea, but already being abused.
@@ -10,72 +10,72 @@
 
 
 #Apple
-doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
-mask.icloud.com
-mask-h2.icloud.com
-mask-api.fe.apple-dns.net
-gateway.fe.apple-dns.net
-gateway.fe2.apple-dns.net
+||doh.dns.apple.com^
+||doh.dns.apple.com.v.aaplimg.com^
+||mask.icloud.com^
+||mask-h2.icloud.com^
+||mask-api.fe.apple-dns.net^
+||gateway.fe.apple-dns.net^
+||gateway.fe2.apple-dns.net^
 
 #wildcard of apple since they are getting more crafty and beginning to just spam hostnames 
 ||apple-dns.net^
 
 
 # Aaflalo
-dns.aaflalo.me
-dns-nyc.aaflalo.me
+||dns.aaflalo.me^
+||dns-nyc.aaflalo.me^
 
 # AdGuard
-dns.adguard.com
-dns-family.adguard.com
+||dns.adguard.com^
+||dns-family.adguard.com^
 
 # Alekberg
-dns.alekberg.net
-dns2.alekberg.net
-dnsse.alekberg.net
+||dns.alekberg.net^
+||dns2.alekberg.net^
+||dnsse.alekberg.net^
 
 # AliDNS
-dns.alidns.com
+||dns.alidns.com^
 
 # Andrews & Arnold
-dns.aa.net.uk
+||dns.aa.net.uk^
 
 # Association 42l
-doh.42l.fr
+||doh.42l.fr^
 
 # AT&T
-dohtrial.att.net
+||dohtrial.att.net^
 
 # BlahDNS
-doh-fi.blahdns.com
-doh-jp.blahdns.com
-doh-de.blahdns.com
-doh-sg.blahdns.com
+||doh-fi.blahdns.com^
+||doh-jp.blahdns.com^
+||doh-de.blahdns.com^
+||doh-sg.blahdns.com^
 
 # Brahma World
-dns.brahma.world
+||dns.brahma.world^
 
 # Canadian Shield
-private.canadianshield.cira.ca
-protected.canadianshield.cira.ca
-family.canadianshield.cira.ca
+||private.canadianshield.cira.ca^
+||protected.canadianshield.cira.ca^
+||family.canadianshield.cira.ca^
 
 # Captnemo
-doh.captnemo.in
+||doh.captnemo.in^
 
 # Cisco / OpenDNS
-resolver1.opendns.com
-resolver2.opendns.com
-resolver1-fs.opendns.com
-resolver2-fs.opendns.com
-resolver1.ipv6-sandbox.opendns.com
-resolver2.ipv6-sandbox.opendns.com
-dns.opendns.com
-doh.opendns.com
-doh.familyshield.opendns.com
-dns.umbrella.com
-doh.umbrella.com
+||resolver1.opendns.com^
+||resolver2.opendns.com^
+||resolver1-fs.opendns.com^
+||resolver2-fs.opendns.com^
+||resolver1.ipv6-sandbox.opendns.com^
+||resolver2.ipv6-sandbox.opendns.com^
+||dns.opendns.com^
+||doh.opendns.com^
+||doh.familyshield.opendns.com^
+||dns.umbrella.com^
+||doh.umbrella.com^
 
 # Clean Browsing
 family-filter-dns.cleanbrowsing.org
@@ -196,7 +196,7 @@ dns.mrkaran.dev
 dns.dns-over-https.com
 
 # NextDNS
-dns.nextdns.io
+||dns.nextdns.io^
 
 # NixNet
 uncensored.any.dns.nixnet.xyz
