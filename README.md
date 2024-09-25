@@ -1,2 +1,2 @@
-# dns-https-block
-block dns over https/tls
+# Adblock
+block Ads
