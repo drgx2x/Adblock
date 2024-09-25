@@ -1,0 +1,6 @@
+www.semprot.com##.f_glowing_image
+www.semprot.com##.f_glowing_image_blue
+www.semprot.com##.semprotnenenmontok_mobile_header_footer
+www.semprot.com##.f_glowing_image_turquoise
+www.semprot.com##img[alt="Close"]
+www.semprot.com##img[alt="close"]
