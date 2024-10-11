@@ -12,3 +12,5 @@ tv1.nontonjavid.net##.iklan
 https://www.youtube.com/pagead/interaction/?ai=
 https://www.youtube.com/pagead/paralleladview?ai=
 https://www.youtube.com/pagead/adview?ai=
+https://www.youtube.com/pcs/activeview?xai=
+https://m.youtube.com/api/stats/ads?ver=
