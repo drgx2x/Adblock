@@ -4,3 +4,10 @@ www.semprot.com##.semprotnenenmontok_mobile_header_footer
 www.semprot.com##.f_glowing_image_turquoise
 www.semprot.com##img[alt="Close"]
 www.semprot.com##img[alt="close"]
+https://www.youtube.com##.ytp-ad-module
+https://www.youtube.com##.video-ads
+https://www.youtube.com##.ytp-ad-overlay-container
+https://www.youtube.com##.ytp-ad-player-overlay
+tv1.nontonjavid.net##.iklan
+https://www.youtube.com/pagead/interaction/?ai=
+https://www.youtube.com/pagead/paralleladview?ai=
