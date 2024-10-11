@@ -11,3 +11,4 @@ https://www.youtube.com##.ytp-ad-player-overlay
 tv1.nontonjavid.net##.iklan
 https://www.youtube.com/pagead/interaction/?ai=
 https://www.youtube.com/pagead/paralleladview?ai=
+https://www.youtube.com/pagead/adview?ai=
